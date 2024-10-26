@@ -1,6 +1,6 @@
 {
-  "name": "detect-overridden-instances",
-  "id": "1422103265459021466",
+  "name": "<Update plugin name>",
+  "id": "<update new id>",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/index.html",
