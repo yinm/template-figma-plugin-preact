@@ -29,7 +29,7 @@
     "@types/node": "^20",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.13.0",
-    "eslint-config-yinm": "^0.0.4",
+    "eslint-config-yinm": "^0.0.5",
     "figma-api-stub": "^0.0.57",
     "jsdom": "^25.0.1",
     "postcss": "^8.4.47",
