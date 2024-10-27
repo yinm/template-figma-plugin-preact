@@ -1,5 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
-import { PluginMessagesFromPlugin } from "../shared/types/PluginMessagesFromPlugin";
+import type { PluginMessagesFromPlugin } from "../shared/types/PluginMessagesFromPlugin";
 import { postMessageFromUi } from "./utils/postMessageFromUi";
 
 export function App() {

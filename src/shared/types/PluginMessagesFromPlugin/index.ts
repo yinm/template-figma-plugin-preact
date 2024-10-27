@@ -1,4 +1,4 @@
-import { FromPluginData } from "./FromPluginData";
+import type { FromPluginData } from "./FromPluginData";
 
 // eslint-disable-next-line @typescript-eslint/consistent-type-definitions
 export type PluginMessagesFromPlugin = {

@@ -1,4 +1,4 @@
-import { PluginMessagesFromUi } from "../shared/types/PluginMessagesFromUi";
+import type { PluginMessagesFromUi } from "../shared/types/PluginMessagesFromUi";
 import { postMessageFromPlugin } from "./utils/postMessageFromPlugin";
 
 figma.showUI(__html__);
