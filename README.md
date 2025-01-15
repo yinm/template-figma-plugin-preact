@@ -3,16 +3,21 @@
 ## Setup
 
 - Replace template to your plugin's info
-  - package.json: `name`
-  - manifest.json: `name`, `id`
+
+```fish
+# fish command
+sed -i 's/template-plugin-name/<replaced-plugin-name>/' "package.json" "manifest.json"
+sed -i 's/template-plugin-id/<replaced-plugin-id>/' "manifest.json"
+```
+
 - Install npm packages
 
-```sh
+```fish
 pnpm i
 ```
 
 - build in watch mode
 
-```sh
+```fish
 pnpm watch
 ```
