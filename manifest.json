@@ -1,6 +1,6 @@
 {
-  "name": "<Update plugin name>",
-  "id": "<update new id>",
+  "name": "template-plugin-name",
+  "id": "template-plugin-id",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/index.html",

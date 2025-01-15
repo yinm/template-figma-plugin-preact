@@ -1,5 +1,5 @@
 {
-  "name": "Update plugin name",
+  "name": "template-plugin-name",
   "private": true,
   "version": "0.0.0",
   "type": "module",
