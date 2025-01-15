@@ -19,7 +19,7 @@
     "typecheck": "tsc -p tsconfig.node.json && tsc -p tsconfig.app.json"
   },
   "dependencies": {
-    "preact": "^10.24.1"
+    "preact": "^10.25.4"
   },
   "devDependencies": {
     "@figma/plugin-typings": "^1.106.0",
