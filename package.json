@@ -26,7 +26,7 @@
     "@preact/preset-vite": "^2.10.1",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/preact": "^3.2.4",
-    "@types/node": "^20",
+    "@types/node": "^22",
     "autoprefixer": "^10.4.21",
     "eslint": "^9.28.0",
     "eslint-config-yinm": "^0.0.6",
