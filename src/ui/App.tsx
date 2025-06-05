@@ -37,7 +37,7 @@ export function App() {
     <div>
       <p>{count}</p>
 
-      <button type="button" onClick={() => setCount((v) => v + 1)}>
+      <button type="button" onClick={() => setCount((v) => v + 1)} className="text-blue-500">
         count up
       </button>
 
