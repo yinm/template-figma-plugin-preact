@@ -6,6 +6,7 @@ This file provides Claude Code specific workflow guidelines.
 
 - **When first receiving instructions, read @docs/requirements.md to understand the project content before starting work**
 - **Always use TodoWrite/TodoRead tools** for multi-step tasks to track progress and provide visibility
+- **Plan mode workflow**: When using plan mode, after creating the plan but before starting implementation, update @docs/requirements.md with the plan content and commit it
 - **Run lint, format, typecheck and build** before final commits to ensure code quality
 - **Never commit debug/temporary code**: Remove console.log and debugging code before committing
 - **Start with type definitions**: When implementing new features, begin by defining shared types in `src/shared/types/`
