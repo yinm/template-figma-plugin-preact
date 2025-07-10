@@ -16,7 +16,11 @@
     "lint:fix": "eslint --fix",
     "format": "prettier --check .",
     "format:fix": "prettier --write .",
-    "typecheck": "tsc -p tsconfig.node.json && tsc -p tsconfig.app.json"
+    "typecheck": "tsc -p tsconfig.node.json && tsc -p tsconfig.app.json",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,css,md,html}": "prettier --write"
   },
   "dependencies": {
     "preact": "^10.26.8"
@@ -31,7 +35,9 @@
     "eslint": "^9.28.0",
     "eslint-config-yinm": "^0.0.6",
     "figma-api-stub": "^0.0.57",
+    "husky": "^9.1.7",
     "jsdom": "^26.1.0",
+    "lint-staged": "^16.1.2",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.12",
     "tailwindcss": "^4.1.8",

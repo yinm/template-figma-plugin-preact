@@ -4,5 +4,7 @@ import { App } from "./App";
 
 test("check button text", () => {
   const { getByRole } = render(<App />);
-  expect(getByRole("button", {name: 'count up'})).toHaveTextContent(/^count up$/);
+  expect(getByRole("button", { name: "count up" })).toHaveTextContent(
+    /^count up$/,
+  );
 });
