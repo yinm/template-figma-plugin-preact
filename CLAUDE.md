@@ -56,3 +56,7 @@ The plugin uses a message-passing architecture between the plugin code (runs in 
 - **Vitest** for testing
 - **TailwindCSS** for styling
 - **TypeScript** with strict type checking
+
+### Type Definitions
+
+- Figma Plugin API: Type definitions are available in @node_modules/@figma/plugin-typings/plugin-api.d.ts
