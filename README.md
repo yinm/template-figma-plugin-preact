@@ -1,5 +1,7 @@
 # template-figma-plugin-preact
 
+Figma plugin template using Preact.
+
 ## Setup
 
 - Replace template to your plugin's info
