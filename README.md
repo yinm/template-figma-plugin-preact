@@ -1,6 +1,6 @@
 # template-figma-plugin-preact
 
-Figma plugin template using Preact.
+Figma plugin template using Preact and modern tooling.
 
 ## Setup
 
