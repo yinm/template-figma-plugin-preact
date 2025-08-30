@@ -23,7 +23,7 @@
     "*.{js,jsx,ts,tsx,json,css,md,html}": "prettier --write"
   },
   "dependencies": {
-    "preact": "^10.26.8"
+    "preact": "^10.27.1"
   },
   "devDependencies": {
     "@figma/plugin-typings": "^1.117.0",
