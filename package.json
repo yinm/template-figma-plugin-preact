@@ -26,24 +26,24 @@
     "preact": "^10.26.8"
   },
   "devDependencies": {
-    "@figma/plugin-typings": "^1.113.0",
-    "@preact/preset-vite": "^2.10.1",
-    "@tailwindcss/vite": "^4.1.8",
-    "@testing-library/jest-dom": "^6.6.3",
+    "@figma/plugin-typings": "^1.117.0",
+    "@preact/preset-vite": "^2.10.2",
+    "@tailwindcss/vite": "^4.1.12",
+    "@testing-library/jest-dom": "^6.8.0",
     "@testing-library/preact": "^3.2.4",
     "@types/node": "^22",
-    "eslint": "^9.28.0",
+    "eslint": "^9.34.0",
     "eslint-config-yinm": "^0.0.6",
     "figma-api-stub": "^0.0.57",
     "husky": "^9.1.7",
     "jsdom": "^26.1.0",
-    "lint-staged": "^16.1.2",
-    "prettier": "^3.5.3",
-    "prettier-plugin-tailwindcss": "^0.6.12",
-    "tailwindcss": "^4.1.8",
-    "typescript": "^5.8.3",
+    "lint-staged": "^16.1.5",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.6.14",
+    "tailwindcss": "^4.1.12",
+    "typescript": "^5.9.2",
     "vite": "^6.3.5",
-    "vite-plugin-singlefile": "^2.2.0",
-    "vitest": "^3.2.1"
+    "vite-plugin-singlefile": "^2.3.0",
+    "vitest": "^3.2.4"
   }
 }
